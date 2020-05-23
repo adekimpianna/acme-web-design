@@ -105,6 +105,7 @@ footer {
     font-size: 20px;
 }
 
+/* newsletter */
 #newsletter {
     padding: 15px;
     color: white;
@@ -124,4 +125,21 @@ footer {
     padding: 4px;
     height: 25px;
     width: 250px;
+}
+
+/* boxes = specialties/skills */
+#boxes {
+    margin-top: 20px;
+}
+
+#boxes .box {
+    float: left;
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+}
+
+#boxes .box img {
+    height: 90px;
+    width: auto;
 }
