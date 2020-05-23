@@ -34,18 +34,19 @@ __A User can see my initial repository and live demo__
 
 ## 1. User story: First time knowing the company
 
-_As a site visitor, I want to know what this company is_
+_As a site visitor, I want to know what the company is_
 
 ### Branch(es)
 
 1. Add a brach named `1-title`
-2. After html and css are done, commit
+2. After html1 and css are done, commit
 3. Adjust `development-strategy.md`, if needed
 
 ### HTML
 
-1. Put up a title on header
-2. Put up a copyright to symbolize an official page of the company on footer
+1. Put up a title on head and other meta families
+1. Put up title content and navigation on header
+1. Put up a copyright to symbolize an official page of the company on footer
 
 ### CSS
 
