@@ -33,7 +33,8 @@ ul {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
+/* -------------------------------------*/
+/* Home Page */
 /* Header */
 header {
     background: #35434a;
@@ -151,7 +152,7 @@ footer {
     height: 90px;
     width: auto;
 }
-
+/* --------------------------------------*/
  /* About Page */
  /* sidebar = contact */
 
@@ -161,8 +162,8 @@ footer {
     margin-top: 10px;
  }
 
- /* about us */
-article#about_us {
+ /* about us article */
+article#main_column {
     float: left;
     width: 65%;
 }
@@ -170,3 +171,15 @@ article#about_us {
 .page_title {
     text-decoration: underline;
 }
+
+/* --------------------------------------*/
+ /* Service Page */
+ /* sidebar = contact */
+
+ ul#services li {
+     list-style: none;
+     padding: 20px;
+     border: #cccccc solid 1px;
+     margin-bottom: 5px;
+     background: #e6e6e6;
+ }
