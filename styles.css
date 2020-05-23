@@ -162,7 +162,7 @@ footer {
     margin-top: 10px;
  }
 
- /* about us article */
+ /* maiin colurmn about us article */
 article#main_column {
     float: left;
     width: 65%;
@@ -174,8 +174,7 @@ article#main_column {
 
 /* --------------------------------------*/
  /* Service Page */
- /* sidebar = contact */
-
+ /* main column pricelist */
  ul#services li {
      list-style: none;
      padding: 20px;
@@ -183,3 +182,9 @@ article#main_column {
      margin-bottom: 5px;
      background: #e6e6e6;
  }
+
+ /* sidebar = quotation */
+aside#sidebar .quote input, aside#sidebar .quote textarea {
+    width: 90%;
+    padding: 5px;
+}
