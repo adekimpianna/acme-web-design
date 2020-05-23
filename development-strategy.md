@@ -61,7 +61,7 @@ _As a site visitor, I want to know what their business is and the standout point
 
 ### Branch(es)
 
-1. Add a brach named `2-main`
+1. Add a brach named `2-basic-info`
 2. After html and css are done, commit
 3. Adjust `development-strategy.md`, if needed
 4. Merge it
