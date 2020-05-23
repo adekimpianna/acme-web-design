@@ -104,7 +104,7 @@ footer {
     color: white;
 }
 
-#showcase h1 {
+#showcase h2 {
     margin-top: 100px;
     margin-bottom: 10px;
     font-size: 55px;
@@ -121,7 +121,7 @@ footer {
     background: #35424a;
 }
 
-#newsletter h1 {
+#newsletter h2 {
     float: left;
 }
 
@@ -210,7 +210,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
          padding-bottom: 20px;
      }
 
-     #showcase h1 {
+     #showcase h2 {
          margin-top: 40px;
      }
 
