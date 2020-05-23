@@ -104,7 +104,7 @@ footer {
     color: white;
 }
 
-#showcase h1 {
+#showcase h2 {
     margin-top: 100px;
     margin-bottom: 10px;
     font-size: 55px;
@@ -121,7 +121,7 @@ footer {
     background: #35424a;
 }
 
-#newsletter h1 {
+#newsletter h2 {
     float: left;
 }
 
@@ -188,3 +188,42 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
     width: 90%;
     padding: 5px;
 }
+
+/* --------------------------------------*/
+ /* MEDIA QUERIES */
+ 
+ @media (max-width: 768px) {
+     header #branding,
+     header nav,
+     header nav li, 
+     #newsletter h1,
+     #newsletter form,
+     #boxes .box,
+     article#main_column,
+     aside#sidebar {
+         float: none;
+         text-align: center;
+         width: 100%;
+     }
+     
+     header {
+         padding-bottom: 20px;
+     }
+
+     #showcase h2 {
+         margin-top: 40px;
+     }
+
+     #newsletter button, .quote button{
+         display: block;
+         width: 100%;
+     }
+
+     #newsletter form input[type="email"], 
+     .quote input,
+     .quote textarea {
+         width: 100%;
+         margin-bottom: 5px;
+     }
+ }
+
