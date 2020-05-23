@@ -26,6 +26,14 @@ ul {
     color: white;
 }
 
+.dark {
+    padding: 16px;
+    background: #35424a;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 /* Header */
 header {
     background: #35434a;
@@ -142,4 +150,23 @@ footer {
 #boxes .box img {
     height: 90px;
     width: auto;
+}
+
+ /* About Page */
+ /* sidebar = contact */
+
+ aside {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+ }
+
+ /* about us */
+article#about_us {
+    float: left;
+    width: 65%;
+}
+
+.page_title {
+    text-decoration: underline;
 }
