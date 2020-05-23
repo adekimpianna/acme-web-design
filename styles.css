@@ -96,7 +96,7 @@ footer {
 /* showcase */
 #showcase {
     min-height: 400px;
-    background: url(/images/showcase.jpg) no-repeat 0 -160px;
+    background: url(images/showcase.jpg) no-repeat 0 -160px;
     background-color: rgba(42, 42, 46, 0.6); 
     background-blend-mode: multiply;
     background-size: cover;
