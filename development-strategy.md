@@ -12,7 +12,13 @@
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+wireframe for homepage<br>
+
+![wireframe homepage](images/homepage_wireframe.jpg)<br>
+<br>
+wireframe for about and service page<br>
+
+![wireframe about & service page](images/about_service_wireframe.jpg)<br>
 
 ---
 
