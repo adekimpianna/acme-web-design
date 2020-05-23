@@ -44,5 +44,5 @@ To start this project, you can :
 1. Check out [my development strategy as an example](development-strategy.md) to get the idea how this project assignment is done as per Agile's way.
 1. Create your own development strategy (or not, use mine to try is fine as well).
 1. And follow how to make [a simple website by Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw).
-> **Dont forget to create a branch per user story!**
+> **Dont forget to create a branch per user story and push your branch so it is counted on Github!**
 ---
