@@ -12,7 +12,13 @@
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+wireframe for homepage<br>
+
+![wireframe homepage](images/homepage_wireframe.jpg)<br>
+<br>
+wireframe for about and service page<br>
+
+![wireframe about & service page](images/about_service_wireframe.jpg)<br>
 
 ---
 
@@ -164,9 +170,8 @@ Add styling on new elements
 
 ## Finishing Touches
 
-1. Add another branch named `7-responsive-design` to Start the responsive design
+1. Add another branch named `7-responsive-design` to Start the responsive design, then merge it!
 1. Next, validate the code to check for any last mistakes, fix it.
-1. When two of them is done, merge it!
 1. Last, write final, complete README on master is also fine:
   - [makeareadme.com](https://www.makeareadme.com/)
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
